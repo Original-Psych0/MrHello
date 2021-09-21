@@ -1,0 +1,32 @@
+{
+    "banner": {
+        "red": 80,
+        "green": 210,
+        "blue": 218
+    },
+    "stats": {
+        "red": 176,
+        "green": 82,
+        "blue": 218
+    },
+    "navigate_name": {
+        "red": 86,
+        "green": 101,
+        "blue": 255
+    },
+    "error": {
+        "red": 251,
+        "green": 0,
+        "blue": 7
+    },
+    "warning": {
+        "red": 254,
+        "green": 220,
+        "blue": 43
+    },
+    "info": {
+        "red": 141,
+        "green": 249,
+        "blue": 255
+    }
+}
