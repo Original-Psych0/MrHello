@@ -284,7 +284,7 @@ console.log(Chalk.rgb(Theme.banner.red, Theme.banner.green, Theme.banner.blue)(`
 ██║╚██╔╝██║██╔══██╗██╔══██║██╔══╝  ██║     ██║     ██║   ██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████╗███████╗╚██████╔╝
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ `))
-console.log(Chalk.rgb(Theme.stats.red, Theme.stats.green, Theme.stats.blue)(`―――――─━[ Developed by Psych0 ]━─―――――
+console.log(Chalk.rgb(Theme.information.red, Theme.information.green, Theme.information.blue)(`―――――─━[ Developed by Psych0 ]━─―――――
 ――――─━[    MrHello v1.0.0     ]━─――――
 ―――─━[    ${Plugins.length} plugins loaded     ]━─―――`))
 
